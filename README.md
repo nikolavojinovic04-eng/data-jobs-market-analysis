@@ -52,7 +52,7 @@ Setup Instructions
 
 Install PostgreSQL and create a new database.
 
-Download the original job postings dataset used in this project.
+Download the original job postings dataset used in this project- https://drive.google.com/drive/folders/1moeWYoUtUklJO6NJdWo9OV8zWjRn0rjN
 
 Create the database tables by executing sql/create_tables.sql.
 
