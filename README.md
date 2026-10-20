@@ -31,14 +31,7 @@ The `sql/` directory contains the SQL scripts used for the analysis:
 - `total_job_postings_by_company.sql` — analyzes job posting counts by company.
 - `View_January_jobs.sql` — explores January job postings.
 
-## Results and Insights
-Query results and key findings will be documented after the analyses have been executed and reviewed.
 
-## Future Improvements
-- Add query result tables and key findings.
-- Expand the SQL analysis.
-- Build a Power BI dashboard.
-- Explore the dataset using Python and Pandas.
 
   How to Run the Project
 
