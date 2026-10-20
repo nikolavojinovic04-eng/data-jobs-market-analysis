@@ -39,3 +39,29 @@ Query results and key findings will be documented after the analyses have been e
 - Expand the SQL analysis.
 - Build a Power BI dashboard.
 - Explore the dataset using Python and Pandas.
+
+  How to Run the Project
+
+Requirements
+
+PostgreSQL
+
+A SQL client, such as pgAdmin 4 or VS Code with a PostgreSQL extension
+
+Setup Instructions
+
+Install PostgreSQL and create a new database.
+
+Download the original job postings dataset used in this project.
+
+Create the database tables by executing sql/create_tables.sql.
+
+Apply the required table modifications using sql/modify_tables.sql.
+
+Import the dataset into the corresponding tables.
+
+Execute the analytical SQL scripts in the sql/ directory.
+
+Review the query results in the results/ directory.
+
+Note: The database schema and dataset must match the tables and columns referenced by the analytical queries.
