@@ -46,7 +46,6 @@ The project uses CSV files containing job postings, company information, and ski
 
 **Dataset source:** [(https://drive.google.com/drive/folders/1moeWYoUtUklJO6NJdWo9OV8zWjRn0rjN)]
 
-The dataset is not included in this repository because of its file size. Download the data from the original source before running the queries.
 
 ## How to Run the Project
 
@@ -58,9 +57,10 @@ The dataset is not included in this repository because of its file size. Downloa
 6. Execute the analytical SQL scripts.
 7. Review the exported query results in the `Results/` folder.
 
-**Note:** The database schema, column names, and CSV files must match those expected by the SQL scripts.
 
-## Results and Insights
+
+##Key insights
+
 Most demanding skills for data analyst are:
 -Sql
 -python
